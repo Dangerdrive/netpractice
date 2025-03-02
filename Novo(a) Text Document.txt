@@ -2,4 +2,3 @@ NetPractice: An Intro to IP Addresses and Subnets
 
 https://www.youtube.com/watch?v=HQUw0CfQWAM
 
-Guanabara
